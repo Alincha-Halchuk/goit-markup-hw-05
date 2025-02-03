@@ -796,7 +796,7 @@ border: none;
 }
 
 .modal-field {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-label {
@@ -837,7 +837,9 @@ border: none;
     
 }
 
-
+.modal-comment {
+    margin-bottom: 16px;
+}
 
 .modal-label {
     font-weight: 400;
